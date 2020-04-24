@@ -7,3 +7,10 @@ Each task has a description
 - Python
 - Jupyter Notebook (optional)
 - Google Colab (optional)
+
+### Python Libraries
+
+- Scikit-Learn
+- Numpy
+- Pandas
+- Scipy
