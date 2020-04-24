@@ -18,12 +18,12 @@ second best feature? (**Note**: you have to train, test, and evaluate your model
 each time on a dataset including only one of the features, and save the final accuracy
 results in a list).
 6. Now, we want to repeat part (5), this time using **two features**, you have to train, test, and evaluate your model for 6 different cases:
-  - (1st and 2nd features)
-  - (1st and 3rd features)
-  - (1st and 4th features)
-  - (2nd and 3rd features)
-  - (2nd and 4th features)
-  - (3rd and 4th features)
+    - (1st and 2nd features)
+    - (1st and 3rd features)
+    - (1st and 4th features)
+    - (2nd and 3rd features)
+    - (2nd and 4th features)
+    - (3rd and 4th features)
 Which **“feature pair”** provides the best accuracy?
 7. **Big Question**: Does the “best feature pair” from part (6) contain of both “first best feature”
 and “second best feature” from part (5)? In other word, can we conclude that the “best
