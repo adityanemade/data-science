@@ -23,9 +23,9 @@ results in a list).
   - (1st and 3rd features)
   - (1st and 4th features)
   - (2nd and 3rd features)
-   -(2nd and 4th features)
-   -(3rd and 4th features)
-Which **“feature pair”** provides the best accuracy?
+  - (2nd and 4th features)
+  - (3rd and 4th features)
+  Which **“feature pair”** provides the best accuracy?
 - **Big Question**: Does the “best feature pair” from part (f) contain of both “first best feature”
 and “second best feature” from part (e)? In other word, can we conclude that the “best
 two features” for classification are the first best feature along with the second best feature
